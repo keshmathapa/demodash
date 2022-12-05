@@ -1,2 +1,2 @@
 # demodash
-Demo for coid dashboard binder
+Demo for covid dashboard binder
